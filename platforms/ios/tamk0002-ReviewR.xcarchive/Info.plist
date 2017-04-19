@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/tamk0002-ReviewR.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>ca.edumedia.tamk0002.reviewr</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0.0</string>
+		<key>CFBundleVersion</key>
+		<string>1.0.0</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Christine Tamkican (D7KVJ2GEZ3)</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2017-04-19T17:01:45Z</date>
+	<key>Name</key>
+	<string>tamk0002-ReviewR</string>
+	<key>SchemeName</key>
+	<string>tamk0002-ReviewR</string>
+</dict>
+</plist>
